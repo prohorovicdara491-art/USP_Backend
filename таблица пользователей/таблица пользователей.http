@@ -1,0 +1,6 @@
+@таблица_пользователей_HostAddress = http://localhost:5072
+
+GET {{таблица_пользователей_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

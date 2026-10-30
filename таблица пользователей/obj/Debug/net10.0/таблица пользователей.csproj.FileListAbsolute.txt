@@ -1,0 +1,42 @@
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\appsettings.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\таблица пользователей.staticwebassets.endpoints.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\таблица пользователей.exe
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\таблица пользователей.deps.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\таблица пользователей.runtimeconfig.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\таблица пользователей.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\таблица пользователей.pdb
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Npgsql.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.csproj.AssemblyReference.cache
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.AssemblyInfoInputs.cache
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.AssemblyInfo.cs
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.csproj.CoreCompileInputs.cache
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\scopedcss\bundle\таблица пользователей.styles.css
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\_______ .76B76E97.Up2Date
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\refint\таблица пользователей.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.pdb
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\таблица пользователей.genruntimeconfig.cache
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\obj\Debug\net10.0\ref\таблица пользователей.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tesik\source\repos\таблица пользователей\таблица пользователей\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
