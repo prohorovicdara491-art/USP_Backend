@@ -1,8 +1,9 @@
-## База данных: `uspk_db`
-Таблица: **`users`**
+# USPK_Backend
+
+## База данных: uspk_db
+Таблица: users
 
 ### Структура таблицы (SQL)
-```sql
 CREATE TABLE Users (
     Id          SERIAL PRIMARY KEY,
     Username    VARCHAR(50)  NOT NULL,
@@ -14,9 +15,8 @@ CREATE TABLE Users (
     CONSTRAINT UQ_Users_Username UNIQUE (Username)
 );
 
----
+INSERT INTO Users (Username, Email, PasswordHash, Role)
+VALUES ('Касьянова Валентина ', 'uspkadmin@mail.ru', '8977', 'Admin');
 
-В файле appsettings.json строка подключения:
-
-
+### Строка подключения (appsettings.json)
 "DefaultConnection": "Host=localhost;Port=5432;Database=uspk_db;Username=postgres;Password=0575"
